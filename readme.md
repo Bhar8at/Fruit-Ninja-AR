@@ -5,13 +5,6 @@ A Python-based webcam game where you slice fruits using your hand movements. The
 ## Demo
 ![Fruit Ninja Demo](demo.gif)
 
-## Features
-- 👋 Real-time hand tracking
-- 🍎 Dynamic fruit spawning
-- 💥 Particle explosion effects
-- 📈 Progressive difficulty
-- ✨ Motion trail effects
-- 🎯 Score tracking
 
 ## Requirements
 - Python 3.x
